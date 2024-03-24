@@ -7,7 +7,8 @@ int main(){
     int x;
 
     cin >> x;
-
+   // 1122334455 Ydx
+   cout << "test";
     cout << x;
     return 0;
 }
